@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\values-cs-keyshidden\\values-cs-keyshidden.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 246,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\values-cs-keyshidden\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 250,
+                        "endOffset": 1051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endColumn": 267,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\values-cs-keyshidden\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1233,
+                        "endColumn": 275,
+                        "endOffset": 1504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endColumn": 172,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\values-cs-keyshidden\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1056,
+                        "endColumn": 176,
+                        "endOffset": 1228
+                    }
+                }
+            }
+        ]
+    }
+]

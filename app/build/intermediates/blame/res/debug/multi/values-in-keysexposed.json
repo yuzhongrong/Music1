@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\values-in-keysexposed\\values-in-keysexposed.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 109,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\values-in-keysexposed\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 109,
+                        "endOffset": 910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 139,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\values-in-keysexposed\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1060,
+                        "endColumn": 143,
+                        "endOffset": 1199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 140,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\values-in-keysexposed\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 915,
+                        "endColumn": 144,
+                        "endOffset": 1055
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\mymusic_icon_allsongs_normal.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-land-mdpi\\mymusic_icon_allsongs_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\mymusic_icon_favorite_highlight.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-land-mdpi\\mymusic_icon_favorite_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\mymusic_icon_history_normal.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-land-mdpi\\mymusic_icon_history_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\mymusic_icon_allsongs_highlight.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-land-mdpi\\mymusic_icon_allsongs_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\albumart_mp_unknown.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-land-mdpi\\albumart_mp_unknown.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\mymusic_icon_recognizer_highlight.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-land-mdpi\\mymusic_icon_recognizer_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\mymusic_icon_download_highlight.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-land-mdpi\\mymusic_icon_download_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\mymusic_icon_history_highlight.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-land-mdpi\\mymusic_icon_history_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\mymusic_icon_mv_highlight.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-land-mdpi\\mymusic_icon_mv_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\mymusic_icon_favorite_normal.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-land-mdpi\\mymusic_icon_favorite_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\mymusic_icon_mv_normal.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-land-mdpi\\mymusic_icon_mv_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi-v4\\mymusic_icon_download_normal.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-land-mdpi\\mymusic_icon_download_normal.png"
+    }
+]

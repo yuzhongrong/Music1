@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_2a044bbb053a1ec4bc6918ec6f9be9f6ebee2d3c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.2.0_036b63325d7c28fd8ca6930f3dae71958f0a69ad\classes.dex" />
+    </item>
+    <item
+        jar="E:\SDK\android-sdk_r24.3.2-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_745569f9ba3b0137f1a3e257bf58867eb5693531\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-cli-1.2_251292282e5f6cdeb33b1e145173c875c8b4874d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_d25c37a5675442ce76d7beab7b54fb1497464317\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.2.0\c0b52915a48fa91b1b94a28d4a2997bac5f524df\okio-1.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.2.0_7038cb1e8d85984b0918aef5dcfd5963e625df0c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_8e6909eafd5b6a10f52e34cb0b4546138317688f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_8e97c52acd3f95020568ffece99d6dfd11f9085b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_12f924bb0ed7c1e2285985482c6ff9faaf6f254d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_94a3095061c404ff58e24dd2c6a4f2e2b74d2483\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_71a51a62a25ed222d6eda7d842888639fe3967b6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho-okhttp\1.2.0\6c5c9380e245c4ff5be2b2a49dcbb0200c39798e\stetho-okhttp-1.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\stetho-okhttp-1.2.0_fb25921ca5f74ef4b6c14dfc06e727e715a354b4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5064d5cfb39ddfde4627b3757b2f10d9dc1adfa1">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_00e2ab3974eca639932a879b8a9a618d233cbfc3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_a25e0f257391c010c7eb90130683aaa1abe516a4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_333ead3464cd0bb5c667459245723f620b8566a4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_55dec41968f83072e77e72ee933d648fb0829321\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_77ccebae24ecc91e608e9660588f1cd8c558dd21\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ecc540eb0c7390f18b159ef784fc672558781409">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1c0d583ecc089db4f2d4622b0cdfe08e17034591\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhongrong.yu\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho\1.2.0\1d6cdb8ce8185b8b23213fad48a83987fb6d2d67\stetho-1.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\transforms\dex\debug\folders\1000\10\stetho-1.2.0_8bdea66cc3209521b5aaf2e83865b5f12f073822\classes.dex" />
+    </item>
+
+</items>

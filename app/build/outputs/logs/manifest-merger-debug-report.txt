@@ -1,0 +1,414 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:16:1-377:12
+	package
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:17:5-36
+		INJECTED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:16:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:21:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:23:22-70
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:24:5-78
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:24:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:26:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:27:5-75
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:27:22-72
+uses-permission#android.permission.WRITE_MEDIA_STORAGE
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:29:5-78
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:29:22-75
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:30:5-75
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:30:22-72
+uses-permission#android.permission.STATUS_BAR
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:31:5-69
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:31:22-66
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:32:5-80
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:32:22-77
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:33:5-76
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:33:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:34:22-76
+uses-permission#android.permission.STOP_APP_SWITCHES
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:35:5-76
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:35:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:36:5-84
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:36:22-81
+uses-permission#android.permission.NFC
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:37:5-62
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:37:22-59
+uses-permission#android.permission.HOTKNOT
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:38:5-66
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:38:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:39:5-81
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:39:22-78
+application
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:41:5-375:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:45:9-50
+	android:allowTaskReparenting
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:43:9-44
+	android:icon
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:44:9-47
+	android:theme
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:46:9-40
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:42:9-47
+meta-data#android.app.default_searchable
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:48:9-50:70
+	android:value
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:50:13-67
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:49:13-58
+activity#ui.activity.MainActivity
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:53:9-62:20
+	android:label
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:55:13-54
+	android:theme
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:56:13-56
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:54:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:57:13-61:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:58:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:60:27-74
+receiver#com.android.lavamusic.MediaButtonIntentReceiver
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:80:9-85:20
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:80:19-60
+intent-filter#android.intent.action.MEDIA_BUTTON+android.media.AUDIO_BECOMING_NOISY
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:81:13-84:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:82:17-77
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:82:25-74
+action#android.media.AUDIO_BECOMING_NOISY
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:83:25-74
+activity#com.android.lavamusic.MediaPlaybackActivity
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:99:9-125:20
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:101:13-45
+	android:label
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:104:13-55
+	android:excludeFromRecents
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:102:13-46
+	android:launchMode
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:105:13-44
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:103:13-36
+	android:theme
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:107:13-60
+	android:taskAffinity
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:106:13-36
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:100:13-50
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:108:13-119:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:109:17-69
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:109:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:111:17-76
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:111:27-73
+data
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:113:17-50
+	android:scheme
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:113:23-47
+intent-filter#android.intent.category.DEFAULT+com.android.music.PLAYBACK_VIEWER
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:120:13-124:29
+action#com.android.music.PLAYBACK_VIEWER
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:121:17-76
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:121:25-73
+activity#com.android.lavamusic.AudioPreview
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:126:9-167:20
+	android:excludeFromRecents
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:128:13-46
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:129:13-36
+	android:theme
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:131:13-56
+	android:taskAffinity
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:130:13-36
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:127:13-41
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:143:13-154:29
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:147:17-78
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:147:27-75
+activity#com.android.lavamusic.ArtistAlbumBrowserActivity
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:168:9-178:20
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:170:13-37
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:169:13-55
+intent-filter#android.intent.action.PICK+android.intent.category.DEFAULT
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:171:13-177:29
+action#android.intent.action.PICK
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:172:17-69
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:172:25-66
+activity#com.android.lavamusic.AlbumBrowserActivity
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:179:9-189:20
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:181:13-37
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:180:13-49
+activity#com.android.lavamusic.TrackBrowserActivity
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:199:9-210:20
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:201:13-37
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:200:13-49
+intent-filter#android.intent.action.EDIT+android.intent.action.PICK+android.intent.category.DEFAULT
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:202:13-209:29
+action#android.intent.action.EDIT
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:203:17-69
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:203:25-66
+activity#com.android.lavamusic.QueryBrowserActivity
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:211:9-225:20
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:213:13-36
+	android:theme
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:214:13-60
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:212:13-49
+intent-filter#android.intent.action.MEDIA_SEARCH+android.intent.action.SEARCH+android.intent.category.DEFAULT
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:215:13-220:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:216:17-71
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:216:25-68
+action#android.intent.action.MEDIA_SEARCH
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:217:17-77
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:217:25-74
+meta-data#android.app.searchable
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:222:13-224:54
+	android:resource
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:224:17-51
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:223:17-54
+activity#com.android.lavamusic.PlaylistBrowserActivity
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:226:9-244:20
+	android:label
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:229:13-54
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:228:13-36
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:227:13-52
+activity-alias#com.android.lavamusic.PlaylistShortcutActivity
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:246:9-257:26
+	android:label
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:250:13-55
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:248:13-36
+	android:targetActivity
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:251:13-62
+	android:icon
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:249:13-73
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:247:13-53
+intent-filter#android.intent.action.CREATE_SHORTCUT+android.intent.category.DEFAULT
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:252:13-256:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:253:17-80
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:253:25-77
+activity#com.android.lavamusic.VideoBrowserActivity
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:259:9-279:20
+	android:label
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:263:13-54
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:261:13-37
+	android:icon
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:262:13-47
+	android:taskAffinity
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:264:13-54
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:260:13-49
+activity#com.android.lavamusic.MediaPickerActivity
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:280:9-306:20
+	android:label
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:283:13-53
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:282:13-37
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:281:13-48
+activity#com.android.lavamusic.MusicPicker
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:307:9-338:20
+	android:label
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:310:13-55
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:309:13-36
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:308:13-40
+intent-filter#android.intent.action.GET_CONTENT+android.intent.category.DEFAULT+android.intent.category.OPENABLE
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:316:13-325:29
+action#android.intent.action.GET_CONTENT
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:317:17-76
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:317:25-73
+category#android.intent.category.OPENABLE
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:320:17-77
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:320:27-74
+intent-filter#android.intent.action.PICK+android.intent.category.DEFAULT+android.intent.category.OPENABLE
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:330:13-337:29
+activity#com.android.lavamusic.CreatePlaylist
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:339:9-342:59
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:341:13-37
+	android:theme
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:342:13-56
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:340:13-43
+activity#com.android.lavamusic.RenamePlaylist
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:343:9-346:59
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:345:13-37
+	android:theme
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:346:13-56
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:344:13-43
+activity#com.android.lavamusic.WeekSelector
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:347:9-350:59
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:349:13-37
+	android:theme
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:350:13-56
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:348:13-41
+activity#com.android.lavamusic.DeleteItems
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:351:9-354:59
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:353:13-37
+	android:theme
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:354:13-56
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:352:13-40
+activity#com.android.lavamusic.ScanningProgress
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:355:9-358:59
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:357:13-37
+	android:theme
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:358:13-56
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:356:13-45
+service#com.android.lavamusic.MediaPlaybackService
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:360:9-362:40
+	android:exported
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:362:13-37
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:361:13-49
+receiver#com.android.lavamusic.MediaAppWidgetProvider
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:364:9-372:20
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:364:19-57
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:365:13-367:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:366:17-84
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:366:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:369:13-371:58
+	android:resource
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:371:17-55
+	android:name
+		ADDED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml:370:17-58
+uses-sdk
+INJECTED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\zhongrong.yu\Desktop\Music1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhongrong.yu\Desktop\Music1\app\src\main\AndroidManifest.xml

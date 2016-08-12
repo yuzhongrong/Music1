@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="106057081778012"
+    token="2634796460573272183" >
+
+    <task
+        name="javac"
+        duration="894" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="559" />
+    <task
+        name="verifier"
+        duration="234" />
+
+    <artifact
+        location="C:\Users\zhongrong.yu\Desktop\Music1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="106057081778012" >
+        <artifact
+            location="C:\Users\zhongrong.yu\Desktop\Music1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

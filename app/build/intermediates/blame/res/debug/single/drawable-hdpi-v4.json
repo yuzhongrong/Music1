@@ -1,0 +1,674 @@
+[
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mymusic_icon_mv_highlight.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\mymusic_icon_mv_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\music_bottom_playback_bg.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\music_bottom_playback_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_loading_large.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_loading_large.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_gallery.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_appwidget_music_next.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_appwidget_music_next.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playlist_tile_pressed.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\playlist_tile_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_music.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\app_music.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_play_clip.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_play_clip.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_artists_unselected.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_artists_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_send.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_send.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_artists_selected.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_artists_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playlist_tile_normal.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\playlist_tile_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_manage.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playback_small_pressed.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\btn_playback_small_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search_category_music_song.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_search_category_music_song.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\albumart_mp_unknown_list.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\albumart_mp_unknown_list.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mymusic_icon_allsongs_highlight.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\mymusic_icon_allsongs_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mymusic_icon_history_highlight.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\mymusic_icon_history_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonbar_pressed.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\buttonbar_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressbar_indeterminate_holo8.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\progressbar_indeterminate_holo8.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mymusic_icon_favorite_highlight.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\mymusic_icon_favorite_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\albumart_mp_unknown.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\albumart_mp_unknown.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_inner_press_c.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\appwidget_inner_press_c.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_ic_mp_playing_large.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\indicator_ic_mp_playing_large.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher_shortcut_music_playlist.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_shortcut_music_playlist.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_camera.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\panel_now_playing_progress_bg.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\panel_now_playing_progress_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mp_shuffle_off_btn.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_shuffle_off_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_eq.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_eq.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_gif.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_play_gif.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pickerbox_background.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\pickerbox_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_appwidget_music_play.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_appwidget_music_play.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_playback_unselected.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_playback_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playlist_tile_drag.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\playlist_tile_drag.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\album_border_large.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\album_border_large.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_slideshow.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_divider.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\appwidget_divider.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_actionbar_back.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_actionbar_back.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playback_ic_play_small.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\btn_playback_ic_play_small.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_inner_focus_c.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\appwidget_inner_focus_c.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mp_artist_list.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_artist_list.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_delete.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_songs_unselected.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_songs_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_inner_press_r.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\appwidget_inner_press_r.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blue96_green2.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\blue96_green2.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pickerbox_selected.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\pickerbox_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\widget_bottom_shadow.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\widget_bottom_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_clear_playlist.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_clear_playlist.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressbar_indeterminate_holo2.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\progressbar_indeterminate_holo2.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\now_playing_progress_handle_pressed.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\now_playing_progress_handle_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_refresh.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressbar_indeterminate_holo5.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\progressbar_indeterminate_holo5.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mp_shuffle_on_btn.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_shuffle_on_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_more_horiz_grey600_24dp.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_more_horiz_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\now_playing_progress_handle_normal.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\now_playing_progress_handle_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_share.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_movie_white_24dp.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_movie_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mp_song_playback.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_song_playback.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_loading_small.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_loading_small.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mp_song_list.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_song_list.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mp_current_playlist_btn.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_current_playlist_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressbar_indeterminate_holo3.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\progressbar_indeterminate_holo3.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_playlists_selected.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_playlists_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_notify_musicplayer.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\stat_notify_musicplayer.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_explore_white_24dp.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_explore_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_music_library.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_music_library.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_ic_mp_playing_list.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\indicator_ic_mp_playing_list.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playlist_tile_longpress.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\playlist_tile_longpress.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mymusic_icon_history_normal.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\mymusic_icon_history_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_comment_down_arrow.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_comment_down_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_set_as_ringtone.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_set_as_ringtone.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_bg_holo_dark.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\progress_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressbar_indeterminate_holo4.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\progressbar_indeterminate_holo4.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mymusic_icon_download_normal.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\mymusic_icon_download_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playback_small_normal.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\btn_playback_small_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mymusic_icon_download_highlight.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\mymusic_icon_download_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mp_playlist_recently_added_list.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_playlist_recently_added_list.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\movie.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\movie.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_inner_focus_r.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\appwidget_inner_focus_r.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_party_shuffle.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_party_shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mp_repeat_off_btn.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_repeat_off_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_bg.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\appwidget_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\now_playing_progress_handle_selected.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\now_playing_progress_handle_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mymusic_icon_favorite_normal.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\mymusic_icon_favorite_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_songs_selected.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_songs_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_albums_unselected.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_albums_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playback_ic_pause_small.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\btn_playback_ic_pause_small.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_playlists_unselected.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_playlists_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_slide_keyboard.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_slide_keyboard.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mp_repeat_all_btn.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_repeat_all_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonbar_inactive.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\buttonbar_inactive.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\midi.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\midi.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_video.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\app_video.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mymusic_icon_allsongs_normal.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\mymusic_icon_allsongs_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_more.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_albums_selected.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_albums_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressbar_indeterminate_holo6.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\progressbar_indeterminate_holo6.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playlist_tile_selected.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\playlist_tile_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_secondary_holo_dark.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\progress_secondary_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_primary_holo_dark.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\progress_primary_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonbar_focused.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\buttonbar_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mp_album_playback.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_album_playback.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mp_playlist_list.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_playlist_list.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mp_sd_card.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_sd_card.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressbar_indeterminate_holo7.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\progressbar_indeterminate_holo7.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mymusic_icon_mv_normal.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\mymusic_icon_mv_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mp_repeat_once_btn.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_repeat_once_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_inner_focus_l.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\appwidget_inner_focus_l.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_shuffle.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progressbar_indeterminate_holo1.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\progressbar_indeterminate_holo1.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_playback_selected.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_playback_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appwidget_inner_press_l.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\appwidget_inner_press_l.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mp_artist_playback.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_artist_playback.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonbar_active.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\buttonbar_active.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mp_partyshuffle_on_btn.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_partyshuffle_on_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pickerbox_unselected.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\pickerbox_unselected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playback_small_selected.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\btn_playback_small_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mood_white_24dp.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_mood_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chat_white_24dp.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_chat_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mymusic_icon_recognizer_highlight.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\mymusic_icon_recognizer_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_appwidget_music_pause.png",
+        "source": "C:\\Users\\zhongrong.yu\\Desktop\\Music1\\app\\src\\main\\res\\drawable-hdpi\\ic_appwidget_music_pause.png"
+    }
+]
